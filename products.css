@@ -1,0 +1,30 @@
+body{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(42, 48, 59);}
+    header{background-color: #333;
+    color: #fff;
+    padding: 20px;}
+    nav ul{list-style: none;
+    padding: 0%;
+    margin: 0%;}
+    h1{color: burlywood;}
+    h2{color: aliceblue;}
+    p{color: rgba(112, 114, 115, 0.938);}
+    button{background-color:gray;
+    color: rgba(214, 215, 216, 0.938);}
+    nav ul li{display: inline;
+    margin-right: 20px;}
+    nav ul li a{color: #fff;
+    text-decoration: none;}
+    
+    main{margin: 20px;}
+    .product{display: inline-block;
+    width: 75%;
+    margin-right: 75%;}
+    .product img{width: 100%;
+    }
+    footer{background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10%;}
